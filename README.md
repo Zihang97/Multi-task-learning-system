@@ -23,3 +23,5 @@ python train_ctcse.py
 ```
 python test_ctcse.py
 ```
+## License
+MIT License
